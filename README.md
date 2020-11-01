@@ -19,3 +19,6 @@ etapa de la mentoria:
 ## Dataset:
 Las imágenes se encuentran en [Google Drive](https://drive.google.com/drive/u/0/folders/1h1hHcEqzdruIsngERX8wdFjB2sM0S_aw).
 
+## Video Explicativo:
+ * [Resumen de los resultados](https://drive.google.com/file/d/1xM-1NjhUtX_xHzf7OF3qHbinEOy_zKUY/view)
+

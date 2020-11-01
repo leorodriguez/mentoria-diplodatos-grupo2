@@ -9,11 +9,11 @@
 ## Notebooks:
 En el repositorio hay una notebook por cada
 etapa de la mentoria:
-    * [Analisis Exploratorio](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega1.ipynb)
-    * [Curación de Datos](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega2_curacion.ipynb)
-    * [Introducción a ML](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega3_introml.ipynb)
-    * [Aprendizaje Supervisado](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega4_supervisado.ipynb)
-    * [Aprendizaje No Supervisado](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega5_NoSupervisado.ipynb)
+ * [Analisis Exploratorio](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega1.ipynb)
+ * [Curación de Datos](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega2_curacion.ipynb)
+ * [Introducción a ML](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega3_introml.ipynb)
+ * [Aprendizaje Supervisado](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega4_supervisado.ipynb)
+ * [Aprendizaje No Supervisado](https://github.com/leorodriguez/mentoria-diplodatos-grupo2/blob/master/mentoria_grupo2_entrega5_NoSupervisado.ipynb)
 
 
 ## Dataset:
